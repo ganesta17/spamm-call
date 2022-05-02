@@ -9,9 +9,9 @@ $pkg install git
 
 $pip install requests
 
-$git clone https://github.com/CyberCarboon/spam-call
+$git clone https://github.com/ganesta17/spamm-call
 
-$cd spam-call
+$cd spamm-call
 
 $git pull
 
